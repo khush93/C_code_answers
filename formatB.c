@@ -1,3 +1,10 @@
+/* take a file input(fileName) and a number input(x). 
+	restructure content to fixed number (x) of chars per line and write to fileName.out
+	sort words and get word count. write to fileName.words
+*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
